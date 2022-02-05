@@ -5,8 +5,8 @@ const int N = 1e5+5;
 ll a[N];
 ll find(const ll x[],int size) {  
 	ll sum = 0;
-	ll b[size+1],a[size+1] ;
-	b[0] = a[0] = 0;
+	ll b[size+1];
+	b[0] = 0;
 	for(int i=1;i<=size;i++) {
 		b[i] = x[i] - x[i-1];
 	}
