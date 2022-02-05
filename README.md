@@ -7,10 +7,10 @@ with video address
 
 
 t1
-https://www.bilibili.com/video/BV1iu411d7RC?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1iu411d7RC
 
 t2
-https://www.bilibili.com/video/BV1WZ4y1o7Jt?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1WZ4y1o7Jt
 
 t3_with_8_testcase
-https://www.bilibili.com/video/BV1jq4y1b7YK?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1jq4y1b7YK
