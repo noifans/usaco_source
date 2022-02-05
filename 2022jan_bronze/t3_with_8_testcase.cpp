@@ -54,7 +54,7 @@ ll solve() {
 }
 
 int main() {
-	freopen("t3_1.in","r",stdin);
+	//freopen("t3_1.in","r",stdin);
 	int t;
 	cin >> t;
 	for(int i=1;i<=t;i++) {
