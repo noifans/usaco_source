@@ -8,6 +8,7 @@ The solutions to USACO Contest's problems those I has teach in my Competitive Pr
 https://www.bilibili.com/video/BV1nL4y1u7JY/
 
 
+
 2022jan_bronze  video address 
 
 t1
